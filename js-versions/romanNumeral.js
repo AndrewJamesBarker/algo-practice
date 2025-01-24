@@ -27,9 +27,6 @@ var romanToInt = function(s) {
   console.log(result); 
 
   return result; 
-  
-
-
 };
 
 // Invoke the function to see the output
